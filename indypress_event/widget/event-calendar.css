@@ -1,0 +1,14 @@
+a.indy-event-calendar-link {
+	color: green;
+	text-decoration: underline;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.indy-event-cal {
+	width: 100%;
+}
+.indy-event-cal td {
+	text-align: center;
+}
+
